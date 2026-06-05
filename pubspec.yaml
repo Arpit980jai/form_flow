@@ -6,14 +6,20 @@ repository: https://github.com/Arpit980jai/form_flow
 issue_tracker: https://github.com/Arpit980jai/form_flow/issues
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: '>=3.10.0'
+  sdk: '>=3.8.0 <4.0.0'
+  flutter: '>=3.32.0'
 
 dependencies:
   flutter:
     sdk: flutter
   image_picker: ^1.1.2
-  intl: ^0.19.0
+  intl: '>=0.19.0 <0.21.0'
+
+topics:
+  - forms
+  - form-builder
+  - json
+  - validation
 
 dev_dependencies:
   flutter_test:
