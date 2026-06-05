@@ -1,6 +1,6 @@
 # form_flow_builder
 
-[![pub package](https://img.shields.io/badge/pub-v0.0.1-blue.svg)](https://pub.dev/packages/form_flow_builder)
+[![pub package](https://img.shields.io/badge/pub-v0.0.2-blue.svg)](https://pub.dev/packages/form_flow_builder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A powerful JSON-driven form builder for Flutter with built-in validation, multi-language support, and deep theme customization.
@@ -44,7 +44,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  form_flow_builder: ^0.0.1
+  form_flow_builder: ^0.0.2
 ```
 
 Then run:

@@ -1,10 +1,18 @@
-# NOTE: when a .pubignore exists, pub uses it INSTEAD of .gitignore,
-# so anything that should not ship must be listed here too.
+# IMPORTANT: when a .pubignore exists, pub uses it INSTEAD of .gitignore,
+# so every artifact that must not ship has to be listed here explicitly.
 
 # Banner image is served from GitHub via the README's raw URL,
 # so it doesn't need to ship inside the published package.
 assets/FormBuilder.png
 
+# Build / tool output
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
 # IDE / IntelliJ files
 *.iml
 .idea/
+.vscode/

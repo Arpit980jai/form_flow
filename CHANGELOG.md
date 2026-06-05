@@ -1,3 +1,8 @@
+## 0.0.2
+
+- Exclude build artifacts and IDE files from the published package
+- No API changes
+
 ## 0.0.1
 
 - Initial release
