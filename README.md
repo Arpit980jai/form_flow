@@ -8,7 +8,7 @@ A powerful JSON-driven form builder for Flutter with built-in validation, multi-
 Define your form once as JSON and `form_flow` renders it, validates it, and hands you back the collected values — ideal for **CRM, Survey, HR, and Inspection** apps where forms change often and should not require a redeploy.
 
 <p align="center">
-  <img src="https://github.com/Arpit980jai/form_flow/blob/main/assets/FormBuilder.png?raw=true" alt="form_flow demo" width="320" />
+  <img src="https://github.com/Arpit980jai/form_flow/blob/main/assets/FormBuilder.png?raw=true" alt="form_flow demo" width="100%" />
 </p>
 
 ## ✨ Features
