@@ -1,3 +1,10 @@
+# NOTE: when a .pubignore exists, pub uses it INSTEAD of .gitignore,
+# so anything that should not ship must be listed here too.
+
 # Banner image is served from GitHub via the README's raw URL,
 # so it doesn't need to ship inside the published package.
 assets/FormBuilder.png
+
+# IDE / IntelliJ files
+*.iml
+.idea/

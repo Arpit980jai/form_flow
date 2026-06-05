@@ -1,11 +1,11 @@
-# form_flow
+# form_flow_builder
 
-[![pub package](https://img.shields.io/badge/pub-v0.0.1-blue.svg)](https://pub.dev/packages/form_flow)
+[![pub package](https://img.shields.io/badge/pub-v0.0.1-blue.svg)](https://pub.dev/packages/form_flow_builder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A powerful JSON-driven form builder for Flutter with built-in validation, multi-language support, and deep theme customization.
 
-Define your form once as JSON and `form_flow` renders it, validates it, and hands you back the collected values — ideal for **CRM, Survey, HR, and Inspection** apps where forms change often and should not require a redeploy.
+Define your form once as JSON and `form_flow_builder` renders it, validates it, and hands you back the collected values — ideal for **CRM, Survey, HR, and Inspection** apps where forms change often and should not require a redeploy.
 
 <p align="center">
   <img src="https://github.com/Arpit980jai/form_flow/blob/main/assets/FormBuilder.png?raw=true" alt="form_flow demo" width="100%" />
@@ -44,7 +44,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  form_flow: ^0.0.1
+  form_flow_builder: ^0.0.1
 ```
 
 Then run:
@@ -78,7 +78,7 @@ Add the following keys to `ios/Runner/Info.plist`:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:form_flow/form_flow.dart';
+import 'package:form_flow_builder/form_flow_builder.dart';
 
 void main() => runApp(const MyApp());
 

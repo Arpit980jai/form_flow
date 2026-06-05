@@ -1,4 +1,4 @@
-/// form_flow
+/// form_flow_builder
 ///
 /// A powerful JSON-driven form builder for Flutter with built-in validation,
 /// multi-language support, and deep theme customization.
@@ -6,9 +6,9 @@
 /// Import this single file to access every public API of the package:
 ///
 /// ```dart
-/// import 'package:form_flow/form_flow.dart';
+/// import 'package:form_flow_builder/form_flow_builder.dart';
 /// ```
-library form_flow;
+library form_flow_builder;
 
 // Models
 export 'src/models/form_schema.dart';

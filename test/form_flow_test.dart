@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:form_flow/form_flow.dart';
+import 'package:form_flow_builder/form_flow_builder.dart';
 
 void main() {
   group('FormSchema', () {
