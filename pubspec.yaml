@@ -1,7 +1,9 @@
 name: form_flow
 description: "A powerful JSON-driven form builder with validation, localization, and dynamic field support for Flutter."
 version: 0.0.1
-homepage: https://github.com/YOUR_GITHUB_USERNAME/form_flow
+homepage: https://github.com/Arpit980jai/form_flow
+repository: https://github.com/Arpit980jai/form_flow
+issue_tracker: https://github.com/Arpit980jai/form_flow/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
